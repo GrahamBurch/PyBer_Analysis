@@ -7,4 +7,4 @@ This analysis used PyBer data to analyze the relationships between 5 key metrics
 ## Results
 
 The type of city with the highest number of total rides is Urban, followed by suburban and rural:
-![""](https://github.com/GrahamBurch/PyBer_Analysis/blob/c8cbc342b166ade96a531695690aa2b417cfc21e/PyBer_Challenge.ipynb?short_path=dc03543#L202-L204)
+https://github.com/GrahamBurch/PyBer_Analysis/blob/c8cbc342b166ade96a531695690aa2b417cfc21e/PyBer_Challenge.ipynb?short_path=dc03543#L202-L204
