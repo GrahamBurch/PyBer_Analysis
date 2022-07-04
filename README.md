@@ -23,7 +23,7 @@ The results for the total fares from each city type for the weeks of 2019-01-06 
 Those results displayed as a line graph:
 ![""](Resources/sum_of_fares_line_graph.PNG)
 
-## Sumamry
+## Summary
 
 1. Rural areas have significantly lower total numbers of drivers and rides and have significantly more expensive average ride costs. Increasing the number of drivers available in rural areas could encourage drivers to lower their requested fares.
 2. Urban areas by far have the most total rides, drivers and sum of fares. As urban areas have the most demand for rides, redistributing drivers into urban areas could increase their profitability. 
